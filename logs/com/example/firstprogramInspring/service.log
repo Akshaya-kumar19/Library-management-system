@@ -1,0 +1,190 @@
+11:07:45.668 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:07:45.678 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : book of akshaya
+11:07:45.686 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: book of akshaya
+11:07:45.686 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:07:45.692 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : hello
+11:07:45.701 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:07:45.702 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:07:45.706 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:07:45.708 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:12:49.306 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:12:49.308 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : book of akshaya
+11:12:49.312 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: book of akshaya
+11:12:49.313 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:12:49.317 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : hello
+11:12:49.321 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:12:49.321 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:12:49.325 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:12:49.326 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:13:41.263 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:13:41.264 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - book is present : book of akshaya
+11:13:41.268 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: book of akshaya
+11:13:41.268 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:13:41.272 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - book is present : hello
+11:13:41.277 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:13:41.277 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:13:41.280 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:13:41.282 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:17:51.457 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:17:51.459 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : book of akshaya
+11:17:51.464 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: book of akshaya
+11:17:51.464 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:17:51.467 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : hello
+11:17:51.470 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:17:51.470 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:17:51.475 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:17:51.477 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:19:04.547 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:19:04.549 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : book of akshaya
+11:19:04.553 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: book of akshaya
+11:19:04.554 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:19:04.560 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : hello
+11:19:04.562 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:19:04.562 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:19:04.564 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:19:04.565 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:23:18.085 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:23:18.087 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - book is present : book of akshaya
+11:23:18.091 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: book of akshaya
+11:23:18.091 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:23:18.103 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - book is present : hello
+11:23:18.105 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:23:18.105 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:23:18.109 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:23:18.110 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:23:47.481 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:23:47.482 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : book of akshaya
+11:23:47.486 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: book of akshaya
+11:23:47.486 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:23:47.491 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : hello
+11:23:47.494 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:23:47.495 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:23:47.497 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:23:47.498 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:25:08.410 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:25:08.411 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : book of akshaya
+11:25:08.417 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: book of akshaya
+11:25:08.417 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:25:08.420 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : hello
+11:25:08.422 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:25:08.422 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:25:08.424 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:25:08.425 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:25:31.610 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:25:31.611 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : book of akshaya
+11:25:31.614 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: book of akshaya
+11:25:31.614 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:25:31.619 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : hello
+11:25:31.621 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:25:31.621 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:25:31.623 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:25:31.624 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:26:28.663 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:26:28.664 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : book of akshaya
+11:26:28.665 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: book of akshaya
+11:26:28.666 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:26:28.667 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : hello
+11:26:28.669 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:26:28.669 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:26:28.671 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:26:28.672 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:31:09.479 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:31:09.480 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : book of akshaya
+11:31:09.483 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: book of akshaya
+11:31:09.484 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:31:09.486 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : hello
+11:31:09.488 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:31:09.488 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:31:09.491 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:31:09.492 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:34:05.961 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:34:05.962 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : book of akshaya
+11:34:05.965 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: book of akshaya
+11:34:05.965 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:34:05.967 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : hello
+11:34:05.969 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:34:05.969 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:34:05.972 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:34:05.972 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:35:34.016 [http-nio-8080-exec-5] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:35:34.017 [http-nio-8080-exec-5] INFO  c.e.f.service.CheckInService - book is present : book of akshaya
+11:35:34.018 [http-nio-8080-exec-5] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: book of akshaya
+11:35:34.018 [http-nio-8080-exec-5] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:35:34.021 [http-nio-8080-exec-5] INFO  c.e.f.service.CheckInService - book is present : hello
+11:35:34.023 [http-nio-8080-exec-5] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:35:34.023 [http-nio-8080-exec-5] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:35:34.025 [http-nio-8080-exec-5] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:35:34.027 [http-nio-8080-exec-5] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:46:22.254 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:46:22.257 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : book of akshaya
+11:46:22.261 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - available quantity of book: 30
+11:46:22.263 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you have taken the book : book of akshaya
+11:46:22.267 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - inserting student into the student book register with a issue id : 113
+11:46:22.267 [http-nio-8080-exec-2] INFO  c.e.f.service.ScheduleMultiThread - Work started on the another thread to update time
+11:46:22.271 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : hello
+11:46:22.275 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - available quantity of book: 30
+11:46:22.277 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you have taken the book : hello
+11:46:22.279 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - inserting student into the student book register with a issue id : 114
+11:46:22.279 [http-nio-8080-exec-2] INFO  c.e.f.service.ScheduleMultiThread - Work started on the another thread to update time
+11:46:22.280 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:46:22.281 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:47:39.365 [http-nio-8080-exec-5] INFO  c.e.f.service.CheckInService - List of books and number of books has to match
+11:47:39.365 [http-nio-8080-exec-5] INFO  c.e.f.service.CheckInService - Register number is checked it is in the table 
+ Names matched 
+List of books and number of books has to match
+
+11:48:36.966 [http-nio-8080-exec-7] INFO  c.e.f.service.CheckInService - List of books and number of books has to match
+11:48:36.967 [http-nio-8080-exec-7] INFO  c.e.f.service.CheckInService - Register number is checked it is in the table 
+ Names matched 
+List of books and number of books has to match
+
+11:48:44.649 [http-nio-8080-exec-9] INFO  c.e.f.service.CheckInService - List of books and number of books has to match
+11:48:44.650 [http-nio-8080-exec-9] INFO  c.e.f.service.CheckInService - Register number is checked it is in the table 
+ Names matched 
+List of books and number of books has to match
+
+11:48:51.158 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - List of books and number of books has to match
+11:48:51.158 [http-nio-8080-exec-1] INFO  c.e.f.service.CheckInService - Register number is checked it is in the table 
+ Names matched 
+List of books and number of books has to match
+
+11:49:49.094 [http-nio-8080-exec-3] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:49:49.095 [http-nio-8080-exec-3] INFO  c.e.f.service.CheckInService - book is present : book of akshaya
+11:49:49.097 [http-nio-8080-exec-3] INFO  c.e.f.service.CheckInService - available quantity of book: 29
+11:49:49.098 [http-nio-8080-exec-3] INFO  c.e.f.service.CheckInService - you have taken the book : book of akshaya
+11:49:49.099 [http-nio-8080-exec-3] INFO  c.e.f.service.CheckInService - inserting student into the student book register with a issue id : 115
+11:49:49.099 [http-nio-8080-exec-3] INFO  c.e.f.service.ScheduleMultiThread - Work started on the another thread to update time
+11:49:49.100 [http-nio-8080-exec-3] INFO  c.e.f.service.CheckInService - book is present : hello
+11:49:49.102 [http-nio-8080-exec-3] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:49:49.102 [http-nio-8080-exec-3] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:49:49.104 [http-nio-8080-exec-3] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:49:49.105 [http-nio-8080-exec-3] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:50:09.974 [http-nio-8080-exec-4] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:50:09.975 [http-nio-8080-exec-4] INFO  c.e.f.service.CheckInService - book is present : hello
+11:50:09.987 [http-nio-8080-exec-4] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:50:09.987 [http-nio-8080-exec-4] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:50:09.989 [http-nio-8080-exec-4] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:50:09.990 [http-nio-8080-exec-4] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:50:36.576 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:50:36.577 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : hello
+11:50:36.582 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:50:36.582 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:50:36.585 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:50:36.585 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+11:51:04.852 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+11:51:04.854 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : hello
+11:51:04.857 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+11:51:04.857 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+11:51:04.860 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+11:51:04.861 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
+13:19:16.119 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - no of books matches with the length of the books
+13:19:16.122 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : book of akshaya
+13:19:16.125 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - available quantity of book: 28
+13:19:16.128 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you have taken the book : book of akshaya
+13:19:16.130 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - inserting student into the student book register with a issue id : 116
+13:19:16.131 [http-nio-8080-exec-2] INFO  c.e.f.service.ScheduleMultiThread - Work started on the another thread to update time
+13:19:16.134 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is present : hello
+13:19:16.135 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - Sorry, currently book is not available -- book name: hello
+13:19:16.136 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - you will get this book when it is available
+13:19:16.138 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : book
+13:19:16.139 [http-nio-8080-exec-2] INFO  c.e.f.service.CheckInService - book is not in the library itself -- book name : no book
